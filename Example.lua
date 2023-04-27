@@ -77,7 +77,7 @@ local a = Library:CreateTab("a")
 -------------------------------------------
 
 announS1:CreateButton("VoidX")
-announS1:CreateLabel("1", "Version: 0.1")
+announS1:CreateLabel("1", "Version: 1")
 
 announS2:CreateButton("Copy discord link", function()
     setclipboard("https://discord.gg/zYqACu65Vw")
