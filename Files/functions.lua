@@ -1,0 +1,1 @@
+abc.createBed = function()
