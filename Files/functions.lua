@@ -1,8 +1,6 @@
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
-local shared = {}
-
 function shared.notif(title,text,duration)
 	title = title or "Title"
 	text = text or "Text"
